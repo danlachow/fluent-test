@@ -1021,6 +1021,8 @@ crypt.base64_decode = base64decode
 base64 = {encode = base64encode, decode = base64decode}
 crypt.base64 = base64
 crypt.generatebytes = crypt_generatebytes
+
+print'123123 draw lib'
 crypt.generatekey = crypt_generatekey
 crypt.hash = crypt_hash
 getgenv().crypt = crypt
